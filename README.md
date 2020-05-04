@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+MIUI资料收集
 
-You can use the [editor on GitHub](https://github.com/huhuijun20040102/Hello-world.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这个网站制作的初衷是让大家更快速的查找关于MIUI的资料 这个网站里的资料全部免费 切勿倒卖 如发现此网站被他人倒卖 请联系网站开发者胡慧君
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MIUI是小米公司旗下基于Android系统深度优化、定制、开发的第三方手机操作系统，也是小米的第一个产品。从2010年8月16日首个内测版发布至今，MIUI已经拥有国内外3.1亿用户，覆盖80种语言，支持221个国家与地区。
 
-### Markdown
+MIUI在Android系统基础上，针对中国用户进行了深度定制。如MIUI拨号与短信、MIUI安全中心、小米消息推送服务、应用双开与系统分身、MIUI天气、小米云服务、照明弹、拦截网等等 。并且MIUI开发团队会在MIUI论坛上直接与用户交流，接收用户反馈并持续改进系统，让用户参与到系统开发来。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+以下为MIUI各资料 全部免费 禁止倒卖
 
-```markdown
-Syntax highlighted code block
+MIUI8开发版下载【若资料过期 请联系网站开发者 我们会及时更新】http://www.miui.com/zt/miui8/dev.html
 
-# Header 1
-## Header 2
-### Header 3
+MIUI7稳定版下载【若资料过期 请联系网站开发者 我们会及时更新】http://www.miui.com/zt/miui7stable/download.html
 
-- Bulleted
-- List
+小米社区【因老版MIUI论坛已经淘汰 更新完新版小米社区 MIUI论坛现已不能正常访问】https://www.xiaomi.cn/
 
-1. Numbered
-2. List
+新版MIUI下载页面【老式的下载页面的支持机型都是旧版 新版下载页面支持新机型 视情况而定】https://www.miui.com/download.html
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huhuijun20040102/Hello-world.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+小米商城 www.mi.com
