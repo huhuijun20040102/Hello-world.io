@@ -9,16 +9,16 @@ MIUI在Android系统基础上，针对中国用户进行了深度定制。如MIU
 ### 以下为MIUI各资料 全部免费 禁止倒卖
 
 ### MIUI8开发版下载【若资料过期 请联系网站开发者 我们会及时更新】
-【点击】(http://www.miui.com/zt/miui8/dev.html)
+[点击](http://www.miui.com/zt/miui8/dev.html)
 
 ### MIUI7稳定版下载【若资料过期 请联系网站开发者 我们会及时更新】
-【点击】(http://www.miui.com/zt/miui7stable/download.html)
+[点击](http://www.miui.com/zt/miui7stable/download.html)
 
 ### 小米社区【因老版MIUI论坛已经淘汰 更新完新版小米社区 MIUI论坛现已不能正常访问】
-【点击】(https://www.xiaomi.cn/)
+[点击](https://www.xiaomi.cn/)
 
 ### 新版MIUI下载页面【老式的下载页面的支持机型都是旧版 新版下载页面支持新机型 视情况而定】
-【点击】(https://www.miui.com/download.html)
+[点击](https://www.miui.com/download.html)
 
 ### 小米商城 
-[点击】(www.mi.com)
+[点击](www.mi.com)
