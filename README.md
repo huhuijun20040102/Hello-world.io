@@ -21,4 +21,4 @@ MIUI在Android系统基础上，针对中国用户进行了深度定制。如MIU
 [点击](https://www.miui.com/download.html)
 
 ### 小米商城 
-[点击](www.mi.com)
+[点击](www.m.mi.com)
