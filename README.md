@@ -16,4 +16,4 @@ MIUI7稳定版下载【若资料过期 请联系网站开发者 我们会及时�
 
 新版MIUI下载页面【老式的下载页面的支持机型都是旧版 新版下载页面支持新机型 视情况而定】https://www.miui.com/download.html
 
-小米商城 mi.com
+小米商城 www.mi.com
