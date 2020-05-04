@@ -14,3 +14,6 @@ MIUI7稳定版下载【若资料过期 请联系网站开发者 我们会及时�
 
 小米社区【因老版MIUI论坛已经淘汰 更新完新版小米社区 MIUI论坛现已不能正常访问】https://www.xiaomi.cn/
 
+新版MIUI下载页面【老式的下载页面的支持机型都是旧版 新版下载页面支持新机型 视情况而定】https://www.miui.com/download.html
+
+小米商城 mi.com
