@@ -37,19 +37,7 @@ iOS是由苹果公司开发的移动操作系统 。苹果公司最早于2007年
 您可以在此链接识别您的iPad机型[点击](https://support.apple.com/zh-cn/HT201471)
 
 ## 识别iPod机型
-您可以在此链接识别您的iPod机型[点击](https://support.apple.com/zh-cn/HT204217)
-
-## Apple中国官网
-[点击](www.apple.com.cn)
-
-## Apple美国官网
-[点击](www.apple.com)
-
-## Aplle日本官网
-[点击](www.apple.com/jp)
-
-## Apple韩国官网
-[点击](www.apple.com/kr)
+您可以在此链接识别您的iPod机型[点击](https://support.apple.com/zh-cn/HT20421)
 
 ### Aplle技术支持
 以下为Apple技术支持的官网 用户的Apple设备需要技术支持 可以通过下面的链接快速访问
