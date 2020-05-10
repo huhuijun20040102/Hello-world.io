@@ -31,10 +31,34 @@ iOS是由苹果公司开发的移动操作系统 。苹果公司最早于2007年
 ### 由于Apple的封闭性 我们不能向您提供iOS固件的下载地址 敬请谅解 如果您是iPhone用户 请打开设置-通用-软件更新 来获取iOS更新
 
 ## 识别iPhone机型
-您可以在此链接来查找您的iPhone机型[点击]（https://support.apple.com/zh-cn/HT201296）
+您可以在此链接来查找您的iPhone机型[点击](https://support.apple.com/zh-cn/HT201296)
 
 ## 识别iPad机型
 您可以在此链接识别您的iPad机型[点击](https://support.apple.com/zh-cn/HT201471)
 
 ## 识别iPod机型
-您可以在此链接识别您的iPod机型[点击]（https://support.apple.com/zh-cn/HT204217）
+您可以在此链接识别您的iPod机型[点击](https://support.apple.com/zh-cn/HT204217)
+
+## Apple中国官网
+[点击](www.apple.com.cn)
+
+## Apple美国官网
+[点击](www.apple.com)
+
+## Aplle日本官网
+[点击](www.apple.com/jp)
+
+## Apple韩国官网
+[点击](www.apple.com/kr)
+
+### Aplle技术支持
+以下为Apple技术支持的官网 用户的Apple设备需要技术支持 可以通过下面的链接快速访问
+
+## iPhone支持
+[点击](https://support.apple.com/zh-cn/iphone)
+
+## iPad支持
+[点击](https://support.apple.com/zh-cn/ipad)
+
+## Mac支持
+[点击](https://support.apple.com/zh-cn/mac)
