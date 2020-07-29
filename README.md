@@ -20,9 +20,10 @@ Project Source目前只有不到10名正式队员 由于大多数队员没有玩
 
 由于组织的发起者胡慧君是搞iPhone的专家 于是我们Project Source决定做一些关于iPhone的教程 具体咨询屑机主 酷安@屑机主或者胡慧君 酷安@胡慧君
 
-## 官方论坛请点击[这里] (https://github.com/BootLoaderANK/Project-Source/issues?q=is%3Aissue+is%3Aclosed)
+## 官方论坛请点击
+[这里](https://github.com/BootLoaderANK/Project-Source/issues?q=is%3Aissue+is%3Aclosed)
 
-### [广告]https://img.wenhairu.com/image/fhxkN
+[广告](https://img.wenhairu.com/image/fhxkN)
 
 ### 广告位招租 10¥/month
 
