@@ -1,8 +1,8 @@
 ###### 广告 请多点击广告 毕竟开发者也要吃饭 请让我们保持免费并且做得更好
 
-https://img.wenhairu.com/image/fhxkN
+[广告]（https://img.wenhairu.com/image/fhxkN）
 
-##  Project Source官方网站
+# Project Source官方网站
 
 欢迎来到Project Source的官方网站 Project Source原名Criminal Hacker.Criminal Hacker（以下简称CH）是一家民间非盈利性网络组织 包含手机刷机 电脑 网络等领域 这个项目最初由胡慧君和屑机主（屑机主不透露姓名 只知道叫彭某）等人创立 目前已经小有规模 CH这个组织由于是非盈利性的 所以运营需要很大的成本 据CH创始人胡慧君表示 CH的主要收入来源是靠刷机赚取的报酬和募捐打赏 所以能不能活下来都靠缘分
 
@@ -16,10 +16,6 @@ CH自2020年5月4日成立（创始人胡慧君当时16岁） 到2020年5月14�
 
 Project Source目前只有不到10名正式队员 由于大多数队员没有玩机的基础 所以我们的建设工作非常缓慢 如果您想加入我们 请邮箱联系胡慧君或者QQ联系彭越 我们将会对你进行一个简单的考核 随后我们的审核人员将会为您打分（A为极好 B为良好 C为不错 D为差 E为非常差）当您的分数为A B C时 您将会通过考核并加入我们 您负责的工作取决于您的分数 我们将会公平公正的对待每一位队员
 
-## About Apple
-
-由于组织的发起者胡慧君是搞iPhone的专家 于是我们Project Source决定做一些关于iPhone的教程 具体咨询屑机主 酷安@屑机主或者胡慧君 酷安@胡慧君
-
 ## 官方论坛请点击
 [这里](https://github.com/BootLoaderANK/Project-Source/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -27,6 +23,6 @@ Project Source目前只有不到10名正式队员 由于大多数队员没有玩
 
 ### 广告位招租 10¥/month
 
-### 广告位招租 10¥/month
+### 广告位招租 10¥/month 联系QQ473655896
 
 ### 由于不可控因素 广告后台部分出现问题 请谅解（狗头）
