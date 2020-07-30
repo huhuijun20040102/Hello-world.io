@@ -10,7 +10,7 @@ CH自2020年5月4日成立（创始人胡慧君当时16岁） 到2020年5月14�
 *****
 
 ## 官方论坛请点击
-[这里](https://github.com/BootLoaderANK/Project-Source/issues?q=is%3Aissue+is%3Aclosed)
+[论坛](https://bootloaderank.gitee.io/dead-second/Login.htm)
 
 [广告](https://img.wenhairu.com/image/fhxkN)
 
