@@ -1,6 +1,6 @@
 ###### 广告 请多点击广告 毕竟开发者也要吃饭 请让我们保持免费并且做得更好
 
-[广告]（https://img.wenhairu.com/image/fhxkN）
+[广告](https://img.wenhairu.com/image/fhxkN)
 
 # Project Source官方网站
 
