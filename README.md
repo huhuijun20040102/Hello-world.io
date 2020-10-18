@@ -1,6 +1,10 @@
 ###### 广告 请多点击广告 毕竟开发者也要吃饭 请让我们保持免费并且做得更好
 
-如果您想支持我们 点这里给我们捐赠[这里](https://img.wenhairu.com/image/a9a226b9-2f2e-489a-95ed-3018b335de01.Ckdwh)
+如果您想支持我们 点这里给我们捐赠
+
+[支付宝](https://img.wenhairu.com/image/a9a226b9-2f2e-489a-95ed-3018b335de01.Ckdwh)
+
+[QQ支付](https://img.wenhairu.com/image/CBzgn)
 
 [广告](https://img.wenhairu.com/image/fhxkN)
 
@@ -17,10 +21,6 @@ CH自2020年5月4日成立（创始人胡慧君当时16岁） 到2020年5月14�
 [广告](https://img.wenhairu.com/image/fhxkN)
 
 *****
-
-### 关于捐赠
-
-Project Source的主要收入来源为广告和一些好心人的捐赠 请观看并多多点击广告 或者酷安联系@胡慧君向我们捐赠 让我们保持免费并且更好
 
 *****
 
