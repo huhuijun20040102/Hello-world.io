@@ -6,6 +6,8 @@
 
 [QQ支付](https://img.wenhairu.com/image/CBzgn)
 
+[PayPal贝宝](paypal.me/huhuijun20040102)
+
 [广告](https://img.wenhairu.com/image/fhxkN)
 
 # Project Source官方网站
