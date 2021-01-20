@@ -10,17 +10,18 @@
 
 [广告](https://img.wenhairu.com/image/fhxkN)
 
-# 胡慧君的博客
+# Welcome BlackApple君君
 
-这个网站原来为Project Source （现以更名为Super Geekers Republic ）的官方网站 由于我们SGR搞了新的网站 这个网站改为我的博客 以下是关于SGR的介绍
+欢迎来到黑果君君的主页 这个网站是用来存放各种黑苹果资料的
 
-SGR Super Geekers Republic 原名Project Source  Project Source原名Criminal Hacker.Criminal Hacker（以下简称CH）是一家民间非盈利性网络组织 包含手机刷机 电脑 网络等领域 这个项目最初由胡慧君和屑机主（屑机主不透露姓名 只知道叫彭某）等人创立 目前已经小有规模 CH这个组织由于是非盈利性的 所以运营需要很大的成本 据CH创始人胡慧君表示 CH的主要收入来源是靠刷机赚取的报酬和募捐打赏 所以能不能活下来都靠缘分
+######什么是黑苹果？
+******
 
-CH自2020年5月4日成立（创始人胡慧君当时16岁） 到2020年5月14日 已经拥有20名队员 目前据CH创始人胡慧君透露 CH这个组织决定规模不超过50人 由于经费问题 CH无法招募更多人手 请大家多多募捐支持我们 由于在2020年5月24日 CH准备制作自己的软件 但由于Criminal Hacker为敏感词 所以CH不得不更名为Project Source
+黑苹果是指在非Mac设备运行macOS 与黑苹果相对为白苹果 
+因为Apple没有授权在非Mac产品运行macOS
+所以才有了黑苹果 因为许多人需要用macOS工作或者搞项目
+而因macOS的价格昂贵而又望而却步 因此有了黑苹果的产生
 
-Project Source 这个名字已经被其他同行占用 我们的工程师大智取了新名字Super Geekers Republic 暂时采用这个名字
-
-*****
 
 ## 官方论坛请点击
 [论坛](https://bootloaderank.gitee.io/dead-second/Login.htm)
